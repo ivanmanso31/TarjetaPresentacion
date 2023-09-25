@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta Presentacion</string>
+    <string name="jos_cebolla">José Cebolla</string>
+    <string name="clown_app">Clown App</string>
+    <string name="_123456789">"  123456789"</string>
+    <string name="jose_email">"  jose@email"</string>
+    <string name="jose_cb">"  #jose_cb"</string>
+</resources>
